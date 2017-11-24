@@ -1,2 +1,2 @@
 # latex_templates
-this repo consists a collection off my used templates
+this repo consists a collection of my used templates
